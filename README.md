@@ -1,43 +1,41 @@
-# DATA-INTEGRATION-FROM-MULTIPLE-SOURCES
+# Power BI Project: Data Integration from Multiple Sources
 
-**COMPANY**: CODTECH IT SOLUTIONS
+# Project Overview
 
-**NAME**: MANDALA MUKESH
+This Power BI project focuses on integrating data from multiple sources to create a unified and insightful dashboard. The report consolidates various datasets to analyze business performance, trends, and key metrics effectively.
 
-**INTERN ID**: CT08SHA
+# Key Insights
 
-**DOMAIN**: POWER-BI
+Data Integration: Combined multiple data sources for a comprehensive view.
 
-**DURATION**: 4 WEEKS
+Business Performance Analysis: Identified trends and key performance indicators (KPIs).
 
-**MENTOR**: NEELA SANTHOSH
+Sales & Revenue Trends: Analyzed financial data across different sources.
 
-# 📌 Project Overview
+Customer & Product Insights: Provided detailed segmentation and product performance analysis.
 
-This project demonstrates data integration from multiple sources (Excel and CSV) in Power BI to create a unified report. The dataset consists of Customer Data (Excel) and Sales Data (CSV), which are combined to generate valuable insights.
+* Features
 
-# 📂 Data Sources
+Multiple Data Source Integration (Excel, SQL, APIs, etc.).
 
-customers.xlsx – Contains customer details (Customer ID, Name, Location, etc.).
+Advanced Data Modeling for seamless analysis.
 
-sales.csv – Contains sales transactions (Order ID, Customer ID, Amount, Date, etc.).
+Interactive Dashboards with drill-through functionality.
 
-# 🔧 Steps to Build the Report
+Comprehensive Data Visualizations including charts, graphs, and tables.
 
-Data Import: Loaded data from Excel and CSV files into Power BI.
+* Dataset Information
 
-Data Transformation: Cleaned, merged, and structured the data using Power Query.
+Dataset: Data integrated from various sources.
 
-Data Modeling: Established relationships between tables based on Customer ID.
+File Format: Power BI (DATA INTEGRATION FROM MULTIPLE SOURCES.pbix)
 
-Visualization: Created key dashboards with:
+Key Columns: Source Name, Transaction Date, Sales, Revenue, Customer Segment, Region, Product Category
 
-Sales by Customer
+* How to Use
 
-Revenue Trends
+Install Power BI Desktop.
 
-Filters & Slicers: Implemented interactive filters for better insights.
+Download and open the DATA INTEGRATION FROM MULTIPLE SOURCES.pbix file.
 
-Publishing: Report published to Power BI Service for sharing.
-
-
+Explore the interactive dashboards and insights.
