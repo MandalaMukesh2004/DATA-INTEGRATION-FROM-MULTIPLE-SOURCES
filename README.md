@@ -6,15 +6,15 @@ This Power BI project focuses on integrating data from multiple sources to creat
 
 # Key Insights
 
-Data Integration: Combined multiple data sources for a comprehensive view.
+* Data Integration: Combined multiple data sources for a comprehensive view.
 
-Business Performance Analysis: Identified trends and key performance indicators (KPIs).
+* Business Performance Analysis: Identified trends and key performance indicators (KPIs).
 
-Sales & Revenue Trends: Analyzed financial data across different sources.
+* Sales & Revenue Trends: Analyzed financial data across different sources.
 
-Customer & Product Insights: Provided detailed segmentation and product performance analysis.
+* Customer & Product Insights: Provided detailed segmentation and product performance analysis.
 
-* Features
+# Features
 
 Multiple Data Source Integration (Excel, SQL, APIs, etc.).
 
@@ -24,18 +24,18 @@ Interactive Dashboards with drill-through functionality.
 
 Comprehensive Data Visualizations including charts, graphs, and tables.
 
-* Dataset Information
+# Dataset Information
 
-Dataset: Data integrated from various sources.
+**Dataset:** Data integrated from various sources.
 
-File Format: Power BI (DATA INTEGRATION FROM MULTIPLE SOURCES.pbix)
+**File Format:** Power BI (DATA INTEGRATION FROM MULTIPLE SOURCES.pbix)
 
-Key Columns: Source Name, Transaction Date, Sales, Revenue, Customer Segment, Region, Product Category
+**Key Columns:** Source Name, Transaction Date, Sales, Revenue, Customer Segment, Region, Product Category
 
-* How to Use
+# How to Use
 
-Install Power BI Desktop.
+* Install Power BI Desktop.
 
-Download and open the DATA INTEGRATION FROM MULTIPLE SOURCES.pbix file.
+* Download and open the DATA INTEGRATION FROM MULTIPLE SOURCES.pbix file.
 
-Explore the interactive dashboards and insights.
+* Explore the interactive dashboards and insights.
